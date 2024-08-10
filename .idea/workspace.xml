@@ -62,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Markets/Confianca.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
+            <state relative-caret-position="6831">
               <caret line="265" column="43" selection-start-line="265" selection-start-column="43" selection-end-line="265" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -184,7 +184,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1918" />
@@ -338,12 +338,12 @@
       <workItem from="1723032273863" duration="15992000" />
       <workItem from="1723150508038" duration="2955000" />
       <workItem from="1723167436540" duration="138000" />
-      <workItem from="1723202075488" duration="11164000" />
+      <workItem from="1723202075488" duration="11616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111952000" />
+    <option name="totallyTimeSpent" value="112404000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -356,10 +356,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1030" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47901592" visible="true" weight="0.30301398" />
-      <window_info id="Structure" order="1" sideWeight="0.52098405" side_tool="true" visible="true" weight="0.30301398" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47924528" visible="true" weight="0.30301398" />
+      <window_info id="Structure" order="1" sideWeight="0.5207547" side_tool="true" visible="true" weight="0.30301398" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -368,7 +367,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.328125" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.22879465" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.11272322" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.45633188" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -486,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Markets/Confianca.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
+        <state relative-caret-position="6831">
           <caret line="265" column="43" selection-start-line="265" selection-start-column="43" selection-end-line="265" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
